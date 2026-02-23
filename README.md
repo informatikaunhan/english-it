@@ -44,13 +44,13 @@ Setelah menyelesaikan mata kuliah ini, mahasiswa mampu:
 
 | # | Topik | Grammar Focus | Self Study |
 |:-:|-------|---------------|:----------:|
-| 01 | Introduction to IT English & Computer Systems | Present Simple & Continuous | [📚](https://informatikaunhan.github.io/eit-course/p01/self-study.html) |
-| 02 | Computer Hardware & Specifications | Countable/Uncountable; Comparatives | [📚](https://informatikaunhan.github.io/eit-course/p02/self-study.html) |
-| 03 | Operating Systems & Software | Present Perfect; Imperatives & Modals | [📚](https://informatikaunhan.github.io/eit-course/p03/self-study.html) |
-| 04 | Software Development & Programming | Past Simple & Continuous; Passive Voice | [📚](https://informatikaunhan.github.io/eit-course/p04/self-study.html) |
-| 05 | Computer Networking | Conditionals Type 0 & 1; Phrasal Verbs | [📚](https://informatikaunhan.github.io/eit-course/p05/self-study.html) |
-| 06 | Cybersecurity | Modals (must/should); Future Forms | [📚](https://informatikaunhan.github.io/eit-course/p06/self-study.html) |
-| 07 | Cloud Computing | Comparatives (review); Articles | [📚](https://informatikaunhan.github.io/eit-course/p07/self-study.html) |
+| 01 | Introduction to IT English & Computer Systems | Present Simple & Continuous | [📚](p01/self-study.md) |
+| 02 | Computer Hardware & Specifications | Countable/Uncountable; Comparatives | [📚](p02/self-study.md) |
+| 03 | Operating Systems & Software | Present Perfect; Imperatives & Modals | [📚](p03/self-study.md) |
+| 04 | Software Development & Programming | Past Simple & Continuous; Passive Voice | [📚](p04/self-study.md) |
+| 05 | Computer Networking | Conditionals Type 0 & 1; Phrasal Verbs | [📚](p05/self-study.md) |
+| 06 | Cybersecurity | Modals (must/should); Future Forms | [📚](p06/self-study.md) |
+| 07 | Cloud Computing | Comparatives (review); Articles | [📚](p07/self-study.md) |
 | 08 | **Ujian Tengah Semester (UTS)** | — | — |
 
 ---
@@ -59,13 +59,13 @@ Setelah menyelesaikan mata kuliah ini, mahasiswa mampu:
 
 | # | Topik | Grammar Focus | Self Study |
 |:-:|-------|---------------|:----------:|
-| 09 | Web Development & Technologies | Relative Clauses; Gerunds & Infinitives | [📚](https://informatikaunhan.github.io/eit-course/p09/self-study.html) |
-| 10 | Databases & Data Management | Reported Speech; Prepositions | [📚](https://informatikaunhan.github.io/eit-course/p10/self-study.html) |
-| 11 | Artificial Intelligence & Machine Learning | Future Forms; Adjectives & Adverbs | [📚](https://informatikaunhan.github.io/eit-course/p11/self-study.html) |
-| 12 | Data Science & Analytics | Passive Voice (advanced); Conditionals 2 & 3 | [📚](https://informatikaunhan.github.io/eit-course/p12/self-study.html) |
-| 13 | IT Project Management | Noun Compounds; Relative Clauses (review) | [📚](https://informatikaunhan.github.io/eit-course/p13/self-study.html) |
-| 14 | Emerging Technologies & Innovation | Modals (possibility); Time Expressions | [📚](https://informatikaunhan.github.io/eit-course/p14/self-study.html) |
-| 15 | IT Ethics, Security & Future Trends | Future Perfect & Continuous; Speculation Modals | [📚](https://informatikaunhan.github.io/eit-course/p15/self-study.html) |
+| 09 | Web Development & Technologies | Relative Clauses; Gerunds & Infinitives | [📚](p09/self-study.md) |
+| 10 | Databases & Data Management | Reported Speech; Prepositions | [📚](p10/self-study.md) |
+| 11 | Artificial Intelligence & Machine Learning | Future Forms; Adjectives & Adverbs | [📚](p11/self-study.md) |
+| 12 | Data Science & Analytics | Passive Voice (advanced); Conditionals 2 & 3 | [📚](p12/self-study.md) |
+| 13 | IT Project Management | Noun Compounds; Relative Clauses (review) | [📚](p13/self-study.md) |
+| 14 | Emerging Technologies & Innovation | Modals (possibility); Time Expressions | [📚](p14/self-study.md) |
+| 15 | IT Ethics, Security & Future Trends | Future Perfect & Continuous; Speculation Modals | [📚](p15/self-study.md) |
 | 16 | **Ujian Akhir Semester (UAS)** | — | — |
 
 ---
@@ -109,52 +109,52 @@ Klik link **📚** untuk mengakses panduan belajar mandiri yang mencakup:
 ## 📂 Struktur Repository
 
 ```
-eit-course/
+english-it/
 ├── README.md                   # Halaman ini
 ├── LICENSE                     # Lisensi CC BY 4.0
 ├── silabus.md                  # Silabus lengkap
 │
 ├── p01/                        # Pertemuan 01: Introduction to IT English
-│   └── self-study.html
+│   └── self-study.md
 │
 ├── p02/                        # Pertemuan 02: Computer Hardware
-│   └── self-study.html
+│   └── self-study.md
 │
 ├── p03/                        # Pertemuan 03: Operating Systems
-│   └── self-study.html
+│   └── self-study.md
 │
 ├── p04/                        # Pertemuan 04: Software Development
-│   └── self-study.html
+│   └── self-study.md
 │
 ├── p05/                        # Pertemuan 05: Computer Networking
-│   └── self-study.html
+│   └── self-study.md
 │
 ├── p06/                        # Pertemuan 06: Cybersecurity
-│   └── self-study.html
+│   └── self-study.md
 │
 ├── p07/                        # Pertemuan 07: Cloud Computing
-│   └── self-study.html
+│   └── self-study.md
 │
 ├── p09/                        # Pertemuan 09: Web Development
-│   └── self-study.html
+│   └── self-study.md
 │
 ├── p10/                        # Pertemuan 10: Databases
-│   └── self-study.html
+│   └── self-study.md
 │
 ├── p11/                        # Pertemuan 11: AI & Machine Learning
-│   └── self-study.html
+│   └── self-study.md
 │
 ├── p12/                        # Pertemuan 12: Data Science
-│   └── self-study.html
+│   └── self-study.md
 │
 ├── p13/                        # Pertemuan 13: IT Project Management
-│   └── self-study.html
+│   └── self-study.md
 │
 ├── p14/                        # Pertemuan 14: Emerging Technologies
-│   └── self-study.html
+│   └── self-study.md
 │
 └── p15/                        # Pertemuan 15: IT Ethics & Future Trends
-    └── self-study.html
+    └── self-study.md
 ```
 
 ---
@@ -164,7 +164,7 @@ eit-course/
 | Tautan | Keterangan |
 |--------|------------|
 | [🏠 Portal Utama](https://informatikaunhan.github.io/portal/) | Daftar semua mata kuliah |
-| [📚 Self-Study Pertemuan 1](https://informatikaunhan.github.io/eit-course/p01/self-study.html) | Mulai dari sini |
+| [📚 Self-Study Pertemuan 1](https://github.com/informatikaunhan/english-it/blob/main/p01/self-study.md) | Mulai dari sini |
 
 ---
 
