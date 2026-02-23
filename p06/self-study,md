@@ -1,0 +1,496 @@
+# Meeting 06: Self-Study Materials
+## Cybersecurity Fundamentals
+
+---
+
+## Overview
+
+This self-study package supports your learning from Meeting 06. Complete these activities before the next class to reinforce vocabulary, grammar, and skills.
+
+| Component | Estimated Time | Priority |
+|-----------|----------------|----------|
+| A. Vocabulary Self-Study | 25-30 minutes | Required |
+| B. Grammar Self-Study | 30-35 minutes | Required |
+| C. Extension Reading | 20-25 minutes | Recommended |
+| D. Extension Listening | 20-30 minutes | Optional |
+| E. Writing Task | 45-60 minutes | Required (Homework) |
+
+---
+
+## A. VOCABULARY SELF-STUDY
+
+### A1. Flashcard List (Quizlet-Ready Format)
+
+Copy and paste this list into Quizlet or your preferred flashcard app.
+
+```
+Term | Definition | Example Sentence
+-----|------------|------------------
+phishing | Fraudulent attempt to obtain sensitive information by disguising as a trustworthy source | The IT team warned us about phishing emails pretending to be from our bank.
+malware | Malicious software designed to damage or gain unauthorized access to systems | Our antivirus detected malware trying to install on the computer.
+ransomware | Malware that encrypts data and demands payment for the decryption key | The hospital had to pay $500,000 after a ransomware attack locked all patient records.
+DDoS attack | Distributed Denial of Service — overwhelming systems with traffic to make them unavailable | The website was down for hours due to a massive DDoS attack.
+social engineering | Manipulating people to reveal confidential information or take harmful actions | The attacker used social engineering to convince the receptionist to give access.
+data breach | Unauthorized access to confidential data | The data breach exposed 12 million customer records.
+encryption | Encoding data to prevent unauthorized access | All sensitive files must use encryption before being sent externally.
+VPN | Virtual Private Network — secure, encrypted connection over a public network | Employees must use the VPN when working from home.
+two-factor authentication | Verification requiring two different methods of identification | Enable two-factor authentication to add an extra layer of security.
+firewall | Network security system that monitors and controls incoming and outgoing traffic | The firewall blocked suspicious traffic from reaching our servers.
+penetration testing | Authorized simulated cyberattack to evaluate system security | We hired experts to conduct penetration testing on our network.
+patch | Software update that fixes security vulnerabilities | You should install the security patch as soon as it becomes available.
+compliance | Following rules, regulations, and standards | Our company must maintain compliance with data protection laws.
+risk assessment | Identifying and evaluating potential security threats | The annual risk assessment revealed several vulnerabilities.
+incident response | Procedures for handling security breaches | The incident response team contained the breach within two hours.
+access control | Restricting system access to authorized users only | Strict access control ensures only managers can view salary information.
+zero-day exploit | Attack on an unknown vulnerability before a patch is available | Zero-day exploits are dangerous because there's no defense ready.
+intrusion detection system | System that monitors network activity for malicious behavior | The intrusion detection system alerted us to unusual login attempts.
+credential | Login information including username and password | Never share your credentials with anyone, including IT staff.
+authenticate | To verify the identity of a user or system | Users must authenticate using their employee ID and password.
+```
+
+### A2. Vocabulary Practice Exercises
+
+**Exercise 1: Complete the Sentences**
+
+Choose the correct word from the box to complete each sentence.
+
+```
+[ phishing | ransomware | encryption | VPN | firewall | compliance ]
+```
+
+1. The _____________ attack demanded Bitcoin payment to unlock our files.
+2. Always use _____________ when sending sensitive data over the internet.
+3. Employees working remotely must connect through the company _____________.
+4. The IT department identified the _____________ email by checking the sender's address carefully.
+5. Our organization maintains strict _____________ with GDPR regulations.
+6. The _____________ blocked over 10,000 suspicious connection attempts last month.
+
+**Exercise 2: Match the Threat to the Protection**
+
+Draw a line connecting each cyber threat to the security measure that best prevents it.
+
+| Threat | Protection |
+|--------|------------|
+| 1. Phishing attacks | a. Regular software patches |
+| 2. Unauthorized network access | b. Employee security training |
+| 3. Password theft | c. Firewall |
+| 4. Software vulnerabilities | d. Two-factor authentication |
+| 5. Data interception during transmission | e. Encryption / VPN |
+
+**Exercise 3: Word Building**
+
+Complete the word family table:
+
+| Verb | Noun (Process) | Noun (Person) | Adjective |
+|------|----------------|---------------|-----------|
+| encrypt | encryption | — | encrypted |
+| authenticate | _____________ | — | authenticated |
+| comply | compliance | — | _____________ |
+| secure | _____________ | — | secure |
+| authorize | authorization | — | _____________ |
+
+---
+
+## B. GRAMMAR SELF-STUDY
+
+### B1. Grammar Summary: Modal Verbs for Security Communication
+
+#### Modal Verbs for Obligation
+
+**Form:** Subject + must/have to/need to + base verb
+
+**Use:** Rules, requirements, and strong necessity in security contexts
+
+| Modal | Strength | Example |
+|-------|----------|---------|
+| **must** | Very strong (rule/law) | "All employees must complete security training." |
+| **have to** | Strong (external requirement) | "We have to comply with data protection laws." |
+| **need to** | Medium (necessity) | "You need to update your antivirus software." |
+
+**IT Security Examples:**
+- "Passwords must be at least 12 characters long."
+- "Sensitive data has to be encrypted before transmission."
+- "Staff need to report suspicious emails immediately."
+
+---
+
+#### Modal Verbs for Advice/Recommendation
+
+**Form:** Subject + should/ought to + base verb
+
+**Use:** Recommendations and suggestions for security best practices
+
+| Modal | Use | Example |
+|-------|-----|---------|
+| **should** | General advice | "You should use a password manager." |
+| **ought to** | Formal advice | "Organizations ought to conduct regular audits." |
+| **had better** | Strong warning | "You had better not ignore those security alerts." |
+
+**IT Security Examples:**
+- "You should change your password every 90 days."
+- "Companies ought to invest in employee training."
+- "You'd better back up your data regularly."
+
+---
+
+#### Modal Verbs for Prohibition
+
+**Form:** Subject + must not/cannot + base verb
+
+**Use:** Expressing what is forbidden or not allowed
+
+| Modal | Meaning | Example |
+|-------|---------|---------|
+| **must not** | Forbidden (prohibition) | "Employees must not share passwords." |
+| **cannot** | Not allowed | "You cannot access the server without authorization." |
+
+⚠️ **Important Distinction:**
+- **must not** = forbidden (you are NOT allowed to do this)
+- **don't have to** = not necessary (you don't need to, but you can if you want)
+
+**Correct Usage:**
+- ✅ "You must not share your password." (It's forbidden)
+- ✅ "You don't have to memorize the policy number." (It's not required)
+- ❌ "You don't must share your password." (WRONG!)
+
+---
+
+#### Future Forms for Predictions
+
+**Use:** Making predictions about cybersecurity trends and consequences
+
+| Form | Certainty | Example |
+|------|-----------|---------|
+| **will** | Certain | "Cyber attacks will continue to increase." |
+| **will probably** | Likely | "AI will probably transform threat detection." |
+| **may/might** | Possible | "Quantum computing might break current encryption." |
+| **going to** | Based on evidence | "This vulnerability is going to cause problems." |
+
+---
+
+### B2. Grammar Reference
+
+📖 **Murphy's English Grammar in Use (2019 Edition)**
+
+| Topic | Units | Key Points |
+|-------|-------|------------|
+| Must and have to | Units 31-32 | Obligation, necessity, prohibition |
+| Should | Unit 33 | Advice, recommendations |
+| Had better | Unit 34 | Strong advice, warnings |
+| Must not vs. don't have to | Unit 31 | Prohibition vs. lack of necessity |
+| Will and going to | Units 20-22 | Future predictions |
+| May and might | Units 29-30 | Possibility |
+
+**Recommended Study Order:**
+1. Read Unit 31 (must/have to)
+2. Complete exercises 31.1 – 31.4
+3. Read Unit 33 (should)
+4. Complete exercises 33.1 – 33.3
+5. Focus on Unit 31.3 (must not vs. don't have to)
+6. Review Units 20-22 (future forms)
+
+---
+
+### B3. Additional Grammar Practice
+
+**Exercise 1: Choose the Correct Modal**
+
+Circle the correct option.
+
+1. All employees ( must / should ) complete the mandatory security training by Friday.
+2. You ( must not / don't have to ) share your login credentials with anyone.
+3. Staff ( should / must ) consider using a password manager — it's a good idea.
+4. We ( have to / should ) comply with GDPR — it's a legal requirement.
+5. You ( don't have to / must not ) memorize every policy, but you need to know the basics.
+6. Employees ( must not / shouldn't ) click on suspicious links — it's strictly forbidden.
+7. Organizations ( ought to / must ) conduct regular security audits — it's highly recommended.
+8. The new regulations ( will / might ) require stronger encryption — we're still waiting for confirmation.
+9. If you don't update your software, you ( will / might ) be vulnerable to attacks.
+10. Companies ( had better / should ) not ignore these warnings, or they'll face serious consequences.
+
+**Exercise 2: Complete with the Correct Modal**
+
+Use the hint in parentheses to choose the appropriate modal verb.
+
+1. All sensitive data _____________ (obligation) be encrypted before transmission.
+2. You _____________ (prohibition) download software from untrusted websites.
+3. Employees _____________ (advice) back up their work files regularly.
+4. Cyber attacks _____________ (future - certain) become more sophisticated.
+5. Organizations _____________ (formal advice) review their security policies annually.
+6. Staff _____________ (not necessary) attend the advanced training — it's optional.
+7. Users _____________ (prohibition) use the same password for multiple accounts.
+8. AI _____________ (future - possible) help detect threats faster in the future.
+9. You _____________ (strong warning) not ignore those security alerts!
+10. The IT team _____________ (obligation) respond to incidents within 24 hours.
+
+**Exercise 3: Error Correction**
+
+Find and correct the error in each sentence.
+
+1. All staff must to complete the cybersecurity awareness training.
+2. You don't must share your password with colleagues.
+3. Employees should to report suspicious emails immediately.
+4. The company musts comply with all data protection regulations.
+5. Users must not to click on links from unknown senders.
+6. Organizations should conducts regular penetration testing.
+7. Cyber attacks will to become more sophisticated over time.
+8. Staff have not to use personal devices without approval.
+9. You hadn't better ignore those security warnings.
+10. IT teams ought review access logs weekly.
+
+---
+
+## C. EXTENSION READING
+
+### Recommended Articles
+
+**Article 1: "What is Phishing? Examples and Prevention Tips"**
+- Source: Cisco Cybersecurity
+- URL: https://www.cisco.com/c/en/us/products/security/what-is-phishing.html
+- Reading time: 10-12 minutes
+- Focus: Types of phishing attacks, real examples, prevention strategies
+
+**Article 2: "Top Cybersecurity Threats in 2024"**
+- Source: Forbes Technology
+- URL: https://www.forbes.com/sites/forbestechcouncil/cybersecurity-threats
+- Reading time: 8-10 minutes
+- Focus: Emerging threats, ransomware trends, AI in cybersecurity
+
+**Article 3: "Creating an Effective Security Policy"**
+- Source: SANS Institute
+- URL: https://www.sans.org/information-security-policy/
+- Reading time: 15-20 minutes
+- Focus: Policy structure, best practices, implementation
+
+### Reading Questions for Self-Assessment
+
+After reading any of the articles above, answer these questions:
+
+1. What are the main types of cyber threats mentioned?
+2. What security measures does the article recommend?
+3. What modal verbs would you use to describe the recommendations? (e.g., "Companies should..." or "Organizations must...")
+4. What new vocabulary did you learn from the article?
+5. How does this information relate to what you learned in class?
+
+---
+
+## D. EXTENSION LISTENING
+
+### Recommended Videos/Podcasts
+
+**Video 1: "Cybersecurity 101: Protect Yourself Online"**
+- Platform: YouTube (various channels)
+- Search: "cybersecurity basics for beginners"
+- Duration: 10-15 minutes
+- Focus: Basic security practices, common threats
+
+**Video 2: "How Hackers Actually Hack"**
+- Platform: YouTube
+- Search: "how hackers hack explained"
+- Duration: 15-20 minutes
+- Focus: Attack methods, technical explanation
+
+**Podcast: "Darknet Diaries"**
+- Platform: Spotify, Apple Podcasts
+- Episode suggestion: Any episode about data breaches
+- Duration: 45-60 minutes
+- Focus: Real cybersecurity stories, incident analysis
+
+### Listening Log Template
+
+Complete this log for each video/podcast you consume:
+
+```
+Title: _________________________________________________
+Duration: ______________ Date: _____________
+
+Key Cybersecurity Terms I Heard:
+1. _______________________ 2. _______________________
+3. _______________________ 4. _______________________
+
+Main Security Recommendations:
+1. _________________________________________________________
+2. _________________________________________________________
+3. _________________________________________________________
+
+Modal Verbs I Noticed:
+• Obligation (must/have to): ____________________________________
+• Advice (should/ought to): ____________________________________
+• Prohibition (must not): ______________________________________
+
+Questions I Have:
+_____________________________________________________________
+```
+
+---
+
+## E. WRITING TASK (Homework)
+
+### Assignment: Security Policy Draft
+
+**Sub-CPMK:** LO6.2 (Professional Security Policy Writing)
+
+#### Task Description
+
+Write a security policy draft (200-250 words) for an organization. Choose ONE of the following policy areas:
+
+- **Option A:** Password Security Policy
+- **Option B:** Email Security Policy
+- **Option C:** Remote Work Security Policy
+
+#### Requirements Checklist
+
+Your policy MUST include:
+
+| Requirement | Check |
+|-------------|-------|
+| Policy title and purpose statement | ☐ |
+| At least 4 specific rules using modal verbs | ☐ |
+| At least 2 obligations (must/have to) | ☐ |
+| At least 2 recommendations (should/ought to) | ☐ |
+| At least 2 prohibitions (must not) | ☐ |
+| Consequences for non-compliance | ☐ |
+| Minimum 5 cybersecurity vocabulary terms | ☐ |
+| 200-250 words | ☐ |
+
+#### Policy Structure Guide
+
+**Section 1: Title & Purpose (2-3 sentences)**
+- Policy name
+- What the policy covers
+- Why it's important
+
+**Section 2: Requirements (4-6 sentences)**
+- What employees must do (obligations)
+- What employees should do (recommendations)
+
+**Section 3: Prohibitions (2-3 sentences)**
+- What employees must not do
+
+**Section 4: Consequences (1-2 sentences)**
+- What happens if employees violate the policy
+
+#### Model Answer
+
+> **Email Security Policy**
+>
+> **Purpose:** This policy establishes guidelines for secure email communication to protect company data and prevent cyber attacks.
+>
+> **Requirements:**
+> All employees must verify the sender's email address before clicking any links or downloading attachments. Staff should be especially cautious with emails requesting urgent action or sensitive information. Employees have to report suspicious emails to the IT security team at security@company.com within 24 hours. Users ought to regularly review their spam folder settings and keep their email client updated.
+>
+> **Prohibitions:**
+> Employees must not open attachments from unknown or untrusted sources. Staff must not forward company emails to personal email accounts. Users must not respond to emails requesting passwords or financial information — legitimate organizations will never ask for this via email.
+>
+> **Consequences:**
+> Violations of this policy may result in disciplinary action, including written warnings, suspension of email privileges, or termination depending on the severity of the breach.
+>
+> Remember: Phishing attacks are one of the biggest threats to our organization. When in doubt, verify before you click.
+
+*Word count: 185 words*
+
+**Note:** The model answer is slightly shorter than required. Your policy should be 200-250 words with more specific details.
+
+---
+
+### Assessment Rubric
+
+Your writing will be assessed using this rubric:
+
+| Criterion | Excellent (5) | Good (4) | Fair (3) | Needs Work (2) | Poor (1) |
+|-----------|---------------|----------|----------|----------------|----------|
+| **Content & Structure** | All required sections with excellent detail | Most sections with good detail | Most sections but limited detail | Several sections missing | Many sections missing |
+| **Modal Verb Usage** | 6+ modals used correctly (must, should, must not) | 5 modals used correctly | 4 modals with minor errors | 2-3 modals with errors | 0-1 correct modals |
+| **Cybersecurity Vocabulary** | 7+ relevant terms used correctly | 5-6 terms used correctly | 4 terms used correctly | 2-3 terms used | 0-1 terms used |
+| **Professional Tone** | Consistently formal and professional | Mostly formal | Sometimes informal | Often informal | Inappropriate tone |
+| **Organization** | Clear structure, logical flow | Good structure | Some structure | Poor structure | No clear structure |
+
+**Total: _____ / 25 points**
+
+#### Submission Details
+
+| Item | Details |
+|------|---------|
+| **Due Date** | Next class meeting |
+| **Format** | Printed (preferred) or digital submission |
+| **File Name** | `[YourName]_Meeting06_SecurityPolicy.docx` |
+| **Font** | Times New Roman or Arial, 12pt |
+| **Spacing** | Double-spaced |
+
+---
+
+## Self-Study Completion Checklist
+
+Before the next class, confirm you have completed:
+
+| Task | Completed |
+|------|-----------|
+| Created vocabulary flashcards (20 terms) | ☐ |
+| Completed vocabulary exercises A2 | ☐ |
+| Read grammar summary B1 | ☐ |
+| Completed grammar exercises B3 | ☐ |
+| Reviewed Murphy's Units 31-34 (or equivalent) | ☐ |
+| Read at least 1 extension article | ☐ |
+| Watched at least 1 extension video (optional) | ☐ |
+| Completed writing task (security policy) | ☐ |
+
+---
+
+## Answer Key for Self-Study Exercises
+
+### Vocabulary Exercise 1
+1. ransomware
+2. encryption
+3. VPN
+4. phishing
+5. compliance
+6. firewall
+
+### Vocabulary Exercise 2
+1-b, 2-c, 3-d, 4-a, 5-e
+
+### Vocabulary Exercise 3
+- authenticate → authentication
+- comply → compliant
+- secure → security
+- authorize → authorized
+
+### Grammar Exercise 1
+1. must (mandatory = obligation)
+2. must not (prohibition)
+3. should (good idea = advice)
+4. have to (legal requirement)
+5. don't have to (not necessary)
+6. must not (strictly forbidden)
+7. ought to (highly recommended)
+8. might (still waiting = uncertain)
+9. will (certain consequence)
+10. had better (strong warning)
+
+### Grammar Exercise 2
+1. must / has to
+2. must not
+3. should
+4. will
+5. ought to
+6. don't have to
+7. must not
+8. might / may
+9. had better
+10. must / has to
+
+### Grammar Exercise 3
+1. All staff must ~~to~~ complete... → "must complete"
+2. You ~~don't must~~ must not share... → "must not share"
+3. Employees should ~~to~~ report... → "should report"
+4. The company ~~musts~~ must comply... → "must comply"
+5. Users must not ~~to~~ click... → "must not click"
+6. Organizations should ~~conducts~~ conduct... → "should conduct"
+7. Cyber attacks will ~~to~~ become... → "will become"
+8. Staff ~~have not to~~ don't have to use... → "don't have to use"
+9. You ~~hadn't~~ had better not ignore... → "had better not"
+10. IT teams ought ~~∅~~ to review... → "ought to review"
+
+---
+
+*End of Self-Study Materials*
